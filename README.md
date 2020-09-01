@@ -3,8 +3,6 @@ dinosaur game, python, pygame.
 
 simple dinosaur game with python, pygame.
 
-blog : 
+blog : https://blockdmask.tistory.com/419
 
-youtube : 
-
-
+youtube : https://youtu.be/ok_8mvQ8CiY
